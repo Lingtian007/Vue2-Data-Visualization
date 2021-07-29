@@ -2,4 +2,4 @@
 
 ## 演示
 
-![](src/assets/ys.jpg)
+![](https://github.com/Lingtian007/Vue2-Data-Visualization/blob/main/src/assets/ys.jpg)
